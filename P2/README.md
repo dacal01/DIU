@@ -4,17 +4,17 @@
 
 Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece la página de Carlota Braun.Para ello, hemos pensado en la aplicación Prentix, la cual nos ofrece rutas turísticas por toda la provincia de Granada organizadas por nuestros staff, planes fuera del ámbito turístico como puede ser karting o paintball. Además, tenemos un servicio de propuestas para que los clientes puedan proponer actividades a realizar durante su estancia.
 
-<img align="center" src="../docs/img/P2/Logo3.png" alt="Logo CherryTrip" width="100%"/>
+<img align="center" src="./Logo.jpg" width="100%"/>
 
 
 ### Malla receptora de información
 
-<img align="center" src="../docs/img/P2/Feedback capture grid.png" alt="Malla receptora de información"/>
+<img align="center" src="./docs/img/P2/Malla.jpg"/>
 
 ## Propuesta de valor
 Hemos diseñado un scope canvas con nuestros objetivos acerca de la creación de Prentix para aportar una mayor funcionalidad a la página web de Carlota Braun.
 
-<img align="center" src="../docs/img/P2/Scope canvas.png" alt="Scope canvas"/>
+<img align="center" src="./Analisis.jpg"/>
 
 ## Task analysis
 
@@ -47,7 +47,7 @@ Las tareas fundamentales están marcadas en negrita.
 
 Nuestra propuesta se basa en la web, ya existente, de Carlota Braun a la que le hemos añadido algunas mejoras a la parte de ocio para hacerlo mucho más atractivo
 
-<img align="center" src="../docs/img/P2/Sitemap.png" alt="Sitemap"/>
+<img align="center" src="./SiteMap"/>
 
 ### Labelling
 
@@ -75,12 +75,12 @@ A continuación, explicamos cada uno de los elementos que aparecen en el Site Ma
 
 Aquí hemos un boceto visual de como quedarían nuestras extensiones una vez implementadas en la página web de Carlota Braun. Tenemos tanto actividades al aire libre como actividades de interior (dentro del hostel).
 
-<img align="center" src="../docs/img/P2/Aplicacion.png" alt="Aplicación"/>
+<img align="center" src="./docs/img/P2/WireFrame.jpg"/>
 
 
 ## Conclusiones
-A la hora de diseñar una aplicación, es muy importante tener en cuenta que no todo el mundo tiene las mismas necesidades. Éramos conscientes de esto. Para suplirlo, la creación de personas ficticias tan diversas y ponernos en su piel ha hecho que ampliemos nuestros horizontes como futuros diseñadores.
+Para diseñar una aplicación, hay que tener en cuenta las necesidades que nos llevan a realizarlas y las necesidades que puede tener un cliente al usarla. Para tenerlas en cuenta, la mejor opción fue la creación de una serie de personas ficticias, donde cada una fuese distintas de las demas para abarcar el mayor rango posible, y asi trabajar con esas personas para poder hacer un diseño muy flexible.
 
-Las técnicas aprendidas para valorar las posibles mejoras de una aplicación (*Empathy map* y *scope canvas*) han sido muy útiles. Gracias a ellas hemos podido apreciar las necesidades de potenciales usuarios y en base a ello desarrollar un diseño para nuestra aplicación.
+Las técnicas de Mapa receptora y Scope Canvas nos han ayudado mucho a ver como piensan esta serie de personas, sus necesidades e inquietudes.
+Una vez analizada a las personas, también tuvimos en cuenta la simplicidad en el layout que es una característica muy importante que le facilita mucho las cosas a los usuarios.
 
-Para terminar, una vez recogida toda la información, y estudiando todo lo que teníamos sobre la mesa, concluimos que el layout debía ser limpio, simple, accesible y llamativo. Eso es lo que hemos intentado plasmar en la aplicación **Cherry trip**
