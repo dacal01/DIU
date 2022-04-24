@@ -9,7 +9,7 @@ Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece l
 
 ### Malla receptora de información
 
-<img align="center" src="./docs/img/P2/Malla.jpg"/>
+<img align="center" src="./Malla.jpg"/>
 
 ## Propuesta de valor
 Hemos diseñado un scope canvas con nuestros objetivos acerca de la creación de Prentix para aportar una mayor funcionalidad a la página web de Carlota Braun.
@@ -47,7 +47,7 @@ Las tareas fundamentales están marcadas en negrita.
 
 Nuestra propuesta se basa en la web, ya existente, de Carlota Braun a la que le hemos añadido algunas mejoras a la parte de ocio para hacerlo mucho más atractivo
 
-<img align="center" src="./SiteMap"/>
+<img align="center" src="./SiteMap.jpg"/>
 
 ### Labelling
 
@@ -75,7 +75,7 @@ A continuación, explicamos cada uno de los elementos que aparecen en el Site Ma
 
 Aquí hemos un boceto visual de como quedarían nuestras extensiones una vez implementadas en la página web de Carlota Braun. Tenemos tanto actividades al aire libre como actividades de interior (dentro del hostel).
 
-<img align="center" src="./docs/img/P2/WireFrame.jpg"/>
+<img align="center" src="./WireFrame.jpg"/>
 
 
 ## Conclusiones
