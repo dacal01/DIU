@@ -13,7 +13,7 @@ carlota Braun sobre sus competidores.
 
 ## User Research
 
-Hemos creado dos personas que podrían ser usuarios de este hostel aunque uno tiene umperfil más alejado de este tipo de hostels y el otro más afín.
+Hemos creado dos personas que podrían ser usuarios de este hostel aunque uno tiene un perfil más alejado de este tipo de hostels y el otro más afín.
 
 La primera persona es [Anselmo](./AnselmoP.PNG), un chico de campo de 35 años que quiere salir un poco de allí y visitar la ciudad con su novia.
 
