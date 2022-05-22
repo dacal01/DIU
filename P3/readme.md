@@ -70,6 +70,4 @@ Para havegar por la aplicación hemos implementado también un menú desplegable
 
 ## Documentación: Publicación del Case Study
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+Esta practica nos ha parecido quizá la mas larga y completa en cuanto a conteido, pero la hemos ido llevando muy bien y nos ha dado tiempo a realizar todo lo que queríamos. Quizá si hemnos encontrado má dificultad a la hora de utilizar protopie ya que no lo conocíamos de antes, pero indagando y viendo tutoriales no ha sido ningún problema.
