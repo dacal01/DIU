@@ -1,11 +1,11 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
-Updated: 11/2/2022
+Grupo: DIU2_Team posits.  Curso: 2021/22 
+Updated: 22/5/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Planada
 
 Descripción: 
 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Daniel Calderón González     :octocat:     
+ * :bust_in_silhouette:  Miguel Garbín Batanero     :octocat:
 
 ----- 
 
