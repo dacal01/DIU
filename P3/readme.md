@@ -68,10 +68,6 @@ Para havegar por la aplicación hemos implementado también un menú desplegable
 
 <img align="center" src="./proto4.PNG"/>
 
-Video del resultado:
-
-[![Watch the video](./protovideo.mp4)](./protovideo.mp4)
-
 ## Documentación: Publicación del Case Study
 
 
