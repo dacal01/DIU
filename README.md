@@ -9,21 +9,16 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Vamos a diseñar una aplicación que mejore las funcionalidades que nos ofrece la página de Carlota Braun.Para ello, hemos pensado en la aplicación Planada, la cual nos ofrece rutas turísticas por toda la provincia de Granada organizadas por nuestros staff, planes fuera del ámbito del ocio como puede ser karting o paintball. Además, tenemos un servicio de propuestas para que los clientes puedan proponer actividades a realizar durante su estancia
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> <img align="center" src="./P3/logo.jpg "/>
 
 Miembros
  * :bust_in_silhouette:   Daniel Calderón González     :octocat:     
  * :bust_in_silhouette:  Miguel Garbín Batanero     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -32,26 +27,62 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Hemos escogido 6 factores que consideramos importantes para comparar las páginas 
+webs. (vamos a valorar del 1 al 5, siendo el 1 el mínimo)
+
+>>> Como conclusión después de haber comparado todas las páginas podemos decir que 
+las mejores han sido Broz Hostel y Carlota Braun debido a que tienen las mejores 
+puntuaciones en los distintios aspectos estudiados. Aunque como consideramos que el 
+idioma puede ser más importante que la fluidez nos decantamos por la página de 
+carlota Braun sobre sus competidores. 
+
+>>> <img align="center" src="./P1/CompetitiveA.PNG "/>
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos creado dos personas que podrían ser usuarios de este hostel aunque uno tiene un perfil más alejado de este tipo de hostels y el otro más afín.
+
+>>> La primera persona es [Anselmo](./P1/AnselmoP.PNG), un chico de campo de 35 años que quiere salir un poco de allí y visitar la ciudad con su novia.
+
+>>> La segunda es [Abby](./P1/AbbyP.PNG), una chica de 21 años con ganas de conocer españa para su futuro erasmus, aunque sus padres no estén mucho por la labor.
+
+>>> Ambos personas son muy interesantes. Presentan perfiles totalmente distintos para un posible uso de la aplicación.
+
+>>> <img align="center" src="./P1/AnselmoP.PNG "/>
+>>> <img align="center" src="./P1/AbbyP.PNG "/>
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>>> Planteamos dos experiencias distintas para Anselmo y Abby:
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> [Anselmo](./P1/AnselmoJM.PNG) Encuentra algunos problemas ya que no está mu acostumbrado a las tecnologías. Finalmente puede reservar sin problemas y tiene una buena experiencia.
+
+>>> [Abby](./P1/AbbyJM.PNG) Sus padres no le ayudan mucho por eso tuvo que hacer toda la reserva ella sola. Al final sus padres disfrutaron de españa y cambiaron de opinión.
+
+>>> <img align="center" src="./P1/AnselmoJM.PNG "/>
+>>> <img align="center" src="./P1/AbbyJM.PNG "/>
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>  El documento se encuentra en [Usability-review-template.pdf](./P1/Usability-review-template.pdf).
+
+>>>  En general, la página web de Carlota Braun cumple con todos los requisitos necesarios 
+para una página de un hostel.
+Como factores a destacar podemos encontrar que tiene diversos idiomas para 
+traducirla. También todas las cosas importantes están muy visibles como las reservas, 
+los puntos de interés cercanos al hostel y las fotos de las habitaciones.
+Podemos encontrar ayudas como el número de teléfono o el correo para hacer 
+consultas, así como la ubicación del hostel y como llegar desde diferentes puntos como 
+el aeropuerto, etc.
+Sin embargo, también hemos encontrado algunos aspectos negativos, el más 
+destacable es la lentitud de carga en algunos enlaces como podría ser “MUSIC BAR & 
+RESTAURANT”. Otros fallos menores serían la foto de inicio y el botón que parpadea, 
+sobre cargando un poco la visión del cliente.
+Como conclusión nuestra puntuación para la web de este hostel es bastante alta, con 
+unas pequeñas modificaciones podría mejorar bastante y llegar a ser casi perfecta.
+
 
 
 ## Paso 2. UX Design  
