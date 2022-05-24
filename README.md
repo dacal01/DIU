@@ -256,6 +256,9 @@ Primero se encuentra la página principal de ocio:
 
 <img align="center" src="./P3/proto4.PNG"/>
 
+>>> El prototipo se puede ver desde el siguiente enlace https://cloud.protopie.io/p/548b84fcd9 pero algunos widget se deforman dependiendo del dispositivo así que hemos incluido un vídeo.
+
+![Simulación](./P3/protogift.gif) 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
