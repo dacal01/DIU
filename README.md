@@ -274,22 +274,31 @@ Primero se encuentra la página principal de ocio:
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Para esta práctica se nos ha asignado el grupo DIU2.07 HichAaron. Es una extensión de la página de carlota Braun llamada CarlotaBraun Concerts que añade funcionalidades a la sección de conciertos de Carlpta Braun, dando la posibilidad de comprar entradas, obtener más información sobre los conciertos...
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Para elegir las 4 personas que realizarán el proceso de User Testing, hemos definidos las características mediantes 3 dados, dado tipo, dado actividad y dado emoción.
+A partir de esa información, hemos construido 4 personas de dichas características. Las personas se muestran a continuación en esta tabla:
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Vicente  | H / 40   | Minusválido  | Alta, se dedica sobe todo a buscar informaciónsobre temas que le resultan interesante.      | Tipo: 4 Actividad: 6 Emoción: 1    | Movil.       | A 
+| Ana  | M / 27   | Madre  | Mucha experiencia ya que lo usa en su día a día todo el tiempo       | Tipo: 2 Actividad: 2 Emoción: 6       | Web        | B 
+| Juan  | H / 30   | Instructor de yoga     | Poca, prefiere manntenerse alejado de todo lo que le pueda llegar a molestar y, para él, hay mucha negatividad en internet        | Tipo: 1 Actividad: 3 Emoción: 3    | móvil      | A 
+| Paula  | M / 50   | Empresaria  | Mucha, ha tenido que crear su empresa desde 0 y para ello se ha servido de internet para aprender casi todo lo que sabe       | Tipo: % Actividad: % Emoción: $     | Web        | B 
 
+
+Vicente: Fue un ex atleta que perdió las piernas y ahora se dedica a entrenar a otros atletas. Para ir de vacaciones ha decidido usar nuestra aplicación ya que le ha llamado mucho la atención el poder participar en numerosas actividades donde seguro que encuentra muchas en las que no sufra ningún impedimento debido a su minusvalía.
+
+Ana: Es una madre soltera. Recientemente se separó de su pareja y, al tener custodia compartida, quiere ir de vacaciones durante unos días para pensar en otra cosa y relajarse un poco. Ha elegido Carlota Braun Concerts ya que le ha llamado la atención la idea de cenar mientras puede disfrutar de diferentes conciertos, y quizá poder encontrar el nuevo amor de su vida.
+
+Juan: Siempre ha sido muy solitario, le gusta la paz y tranquilidad por lo que se hizo instructor de yoga. Para él. Internet es una nube de negatividad que afecta a la mente de las personas por lo que intenta mantenerse lo más alejado posible de esta red. También le llamó la atención el poder elegir actividades para realizar ya que piensa que es una gran oportunidad para mostrar el yoga a más personas sugiriendolo como actividad en la app.
+
+Paula: Es una empresaria de éxito que ha decido ir con su pareja a disfrutar de todo lo que pueda ofrecer la ciudad sin importar el coste. Se ha decidido por Carlota Braun Concerts. Además, es muy apasionada de la música, por lo que al ver la cantidad y variedad de conciertos que se ofrecían en la aplicación, no dudó en reservar una habitación para sus vacaciones.
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
