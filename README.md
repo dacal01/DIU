@@ -303,21 +303,20 @@ Paula: Es una empresaria de éxito que ha decido ir con su pareja a disfrutar de
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+<img align="center" src="./P4/SUS.PNG"/>
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Hemos realizado un System Usability Scale Test (SUS) y hemos obtenido las siguientes conclusiones:
+
+>>> -Tanto la aplicación Planada como Carlota Braun Concerts han obtenido muy buenas calificaciones (entre 90-95) y tienen una mínima diferencia entre ellas, por lo que podemos deducir que, en usabilidad, son ambas excelentes
+
+>>> -Aunque ambas tienen una muy alta valoración y muy aproximada, los usuarios prefieren algo más la aplicación de Carlota Braun Concerts ya que es algo más fácil de aprender/usar y es algo más completa.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+>> Finalmente, se ha realizado en informe de usabilidad de la aplicación Carlota Braun Concerts, el cual se puede acceder pulsando [aquí]([https://github.com/jesusts99/DIU21/blob/master/P4/P4_UsabReport_DIU1_PJ_doneby_DIU2_JTS.pdf](https://github.com/dacal01/DIU/blob/master/P4/DIU_report-template-usability-testOK.pdf)).
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
