@@ -339,8 +339,7 @@ Paula: Es una empresaria de éxito que ha decido ir con su pareja a disfrutar de
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+>>> Al principio estábamos un poco perdidos en las prácticos ya que era todo nuevo y nunca habíamos hecho nada que fuese medianamente parecido, pero las prácticas se disfrutan y no son difíciles por lo que pronto empezamos a coger el ritmo y nos ha ido bien en la realización de las mismas. En general, estamos muy contentos tanto de nuestras prácticas como de la asignatura en general, ya que ni es aburrida ni los profesores la hacen aburrida.
 
 
 
