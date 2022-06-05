@@ -316,7 +316,7 @@ Paula: Es una empresaria de éxito que ha decido ir con su pareja a disfrutar de
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Finalmente, se ha realizado en informe de usabilidad de la aplicación Carlota Braun Concerts, el cual se puede acceder pulsando [aquí]([https://github.com/jesusts99/DIU21/blob/master/P4/P4_UsabReport_DIU1_PJ_doneby_DIU2_JTS.pdf](https://github.com/dacal01/DIU/blob/master/P4/DIU_report-template-usability-testOK.pdf)).
+>> Finalmente, se ha realizado en informe de usabilidad de la aplicación Carlota Braun Concerts, el cual se puede acceder pulsando [aquí](https://github.com/dacal01/DIU/blob/master/P4/DIU_report-template-usability-testOK.pdf).
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
